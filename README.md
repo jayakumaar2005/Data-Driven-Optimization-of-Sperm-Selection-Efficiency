@@ -1,0 +1,2 @@
+# Data-Driven-Optimization-of-Sperm-Selection-Efficiency
+Analyzed large-scale biological datasets to evaluate sperm motility. Performed data preprocessing, feature engineering, and statistical analysis to identify key factors influencing selection efficiency. Developed predictive models to optimize sperm selection outcomes, resulting in improved accuracy and efficiency compared to traditional methods.
